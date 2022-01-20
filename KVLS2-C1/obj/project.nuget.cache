@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "EwZgpRgazlX32YYCQfDt14ppLU2gVATym82WjXHkVRw2OLG2oqxg6DrDbJhdRz7Mnz2EcP0YPf7IKTOQUcFZdg==",
+  "success": true,
+  "projectFilePath": "D:\\Intellics\\Gitea\\Repository\\C1\\KVLS2-C1\\KVLS2-C1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moons\\.nuget\\packages\\hardware.info\\1.1.1.1\\hardware.info.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\moons\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\moons\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\moons\\.nuget\\packages\\openhardwaremonitor\\0.9.6\\openhardwaremonitor.0.9.6.nupkg.sha512",
+    "C:\\Users\\moons\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\moons\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "C:\\Users\\moons\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\moons\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 'net5.0-windows7.0' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8'을(를) 사용하여 패키지 'OpenHardwareMonitor 0.9.6'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "OpenHardwareMonitor",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
